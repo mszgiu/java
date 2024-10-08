@@ -1,3 +1,4 @@
+//Testando Equals
 import java.util.Scanner;
 
 public class Teste_Equals {
