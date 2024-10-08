@@ -1,4 +1,5 @@
 //desenvolvido por Giulia Marques - 23/09/24
+//Codigo criado para mostrar o numero, o quadrado do numero e o cubo do numero
 import java.util.Scanner;
 
 public class Exe_05 {
