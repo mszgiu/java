@@ -1,4 +1,5 @@
 //desenvolvido por Giulia Marques - 23/09/24
+//Codigo desenvolvido para ler x numeros e informar quais numeros são maiores que 10 e menores que 20
 import java.util.Scanner;
 
 public class Exe_02 {
