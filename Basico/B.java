@@ -1,4 +1,5 @@
 //Codigo desenvolvido por Giulia Marques - 18/09/24
+//Codigo criado para somar dois numeros inteiros
 import java.util.Scanner;
 
 public class Soma_Numeros_Inteiro {
