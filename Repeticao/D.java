@@ -1,4 +1,5 @@
 //desenvolvido por Giulia Marques - 23/09/24
+//Codigo criado para fazer uma divisão e infromar que a divisão é impossivel caso o segundo numero for igual a 0
 import java.util.Scanner;
 
 public class Exe_03 {
