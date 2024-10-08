@@ -1,4 +1,5 @@
 //Codigo desenvolvido por Giulia Marques - 18/09/24
+//Codigo criado para mostrar a diferença do produto
 import java.util.Scanner;
 
 public class Diferença_Produto {
