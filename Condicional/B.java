@@ -1,4 +1,5 @@
 // Desenvolvido por Bruna Felix e Giulia Marques - 09/09/2024
+//Criando uma calculadora simples
 import java.util.Scanner;
 
 public class Calculadora_Simples {
