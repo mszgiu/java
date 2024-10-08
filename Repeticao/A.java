@@ -1,4 +1,5 @@
 //desenvolvido por Giulia Marques - 23/09/24
+//Codigo criado para leia um numero inteiro e mostrar somente imparas ate chegar no numero digitado
 import java.util.Scanner;
 
 public class Exe_01 {
