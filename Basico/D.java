@@ -1,4 +1,5 @@
 //Codigo desenvolvido por Giulia Marques - 18/09/24
+//Codigo criado para mostrar o valor do preço total
 import java.util.Scanner;
 
 public class Codigo_Peça {
